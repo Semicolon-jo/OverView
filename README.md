@@ -6,7 +6,6 @@
 
 Abdallah Hamoury
 Maiada Ibrahim
-Saddam maratouq
 Ahmad Bani Salameh
 Qutadah Almomani
 Mohammed Mosleh

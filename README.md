@@ -5,11 +5,11 @@
 ### Team members 
 
 Abdallah Hamoury
-Mohammed Mosleh
+Maiada Ibrahim
 Saddam maratouq
-Ola AlTaslaq
-Areej Elayyan
-Dima Zeklam
+Ahmad Bani Salameh
+Qutadah Almomani
+Mohammed Mosleh
 
 ### Project duration
 

@@ -1,14 +1,14 @@
 # OverView
 
-## Project name : FIRST step
+# Project name : Better days
 
-### Team members 
+# Team members 
 
-Abdallah Hamoury
-Maiada Ibrahim
-Ahmad Bani Salameh
-Qutadah Almomani
-Mohammed Mosleh
+- Abdallah Hamoury
+- Maiada Ibrahim
+- Ahmad Bani Salameh
+- Qutadah Almomani
+- Mohammed Mosleh
 
 ### Project duration
 
